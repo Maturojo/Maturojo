@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Matías Rojo
 
-<!--
-**Maturojo/Maturojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la programación, el desarrollo web y la mejora continua. Actualmente trabajo en **Sur Maderas**, donde combino tecnología con procesos comerciales.
 
-Here are some ideas to get you started:
+🎯 **Áreas de interés:**
+- Desarrollo Full Stack (JavaScript, HTML, CSS, Sass, Bootstrap)
+- Desarrollo en C# (proyectos de escritorio y lógica de negocio)
+- Automatización de procesos comerciales
+- Optimización de algoritmos (optimizadores de cortes, cotizadores)
+- Finanzas personales e inversiones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Proyectos Destacados:**
+- ✨ [Optimización de cortes para Sur Maderas](#) (JavaScript, HTML, Canvas)
+- ✨ [Catálogo Exclusivo Sur Maderas](#) (HTML, CSS, Bootstrap, Sass)
+
+🚀 **Actualmente estoy aprendiendo:**
+- Desarrollo avanzado en Full Stack
+- Mejores prácticas de Clean Code
+- Inversiones y finanzas aplicadas
+
+📫 **Cómo contactarme:**
+- Email: [tu-email]
+- LinkedIn: [tu-linkedin]
+- GitHub: [tu-github]
+
+---
+
+> "Siempre buscando el siguiente paso para mejorar."
