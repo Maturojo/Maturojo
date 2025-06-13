@@ -4,10 +4,9 @@ Soy un desarrollador apasionado por la programación, el desarrollo web y la mej
 
 🎯 **Áreas de interés:**
 - Desarrollo Full Stack (JavaScript, HTML, CSS, Sass, Bootstrap)
-- Desarrollo en C# (proyectos de escritorio y lógica de negocio)
 - Automatización de procesos comerciales
 - Optimización de algoritmos (optimizadores de cortes, cotizadores)
-- Finanzas personales e inversiones
+
 
 💻 **Proyectos Destacados:**
 - ✨ [Optimización de cortes para Sur Maderas](#) (JavaScript, HTML, Canvas)
@@ -16,12 +15,12 @@ Soy un desarrollador apasionado por la programación, el desarrollo web y la mej
 🚀 **Actualmente estoy aprendiendo:**
 - Desarrollo avanzado en Full Stack
 - Mejores prácticas de Clean Code
-- Inversiones y finanzas aplicadas
+
 
 📫 **Cómo contactarme:**
-- Email: [tu-email]
-- LinkedIn: [tu-linkedin]
-- GitHub: [tu-github]
+- Email: maturojo123mdq@gmail.com
+- LinkedIn: www.linkedin.com/in/matias-nahuel-rojo-antuña-385624230
+
 
 ---
 
