@@ -3,7 +3,7 @@ Soy un desarrollador apasionado por la programación, el desarrollo web y la mej
 
 🧠 Proyecto principal:
 
-🔧 **Gestor de Tareas PRO**  
+🔧 **Asistente Virtul**  
 Sistema completo de gestión de tareas con roles de usuario, login, backend con Node.js + MongoDB, frontend modular y diseño responsive. Incluye panel de administración, vista por empleado, estadísticas, sistema de notificaciones y posibilidad de funcionar como PWA.
 
 🎯 Áreas de interés:
@@ -14,9 +14,9 @@ Sistema completo de gestión de tareas con roles de usuario, login, backend con 
 
 💻 Otros proyectos destacados:
 
-✨ **Optimización de cortes para Sur Maderas**  
-(JavaScript, HTML, Canvas)  
-Algoritmo visual interactivo para optimizar cortes de madera en placas, minimizando desperdicio.
+✨ **Cotizador de cortes para Sur Maderas**  
+(JavaScript, HTML, SASS, Boostrap)  
+
 
 ✨ **Catálogo Exclusivo Sur Maderas**  
 (HTML, CSS, Bootstrap, Sass)  
