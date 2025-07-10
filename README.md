@@ -3,7 +3,7 @@ Soy un desarrollador apasionado por la programación, el desarrollo web y la mej
 
 🧠 Proyecto principal:
 
-🔧 **Asistente Virtul**  
+🔧 **Asistente Virtual**  
 Sistema completo de gestión de tareas con roles de usuario, login, backend con Node.js + MongoDB, frontend modular y diseño responsive. Incluye panel de administración, vista por empleado, estadísticas, sistema de notificaciones y posibilidad de funcionar como PWA.
 
 🎯 Áreas de interés:
@@ -15,7 +15,8 @@ Sistema completo de gestión de tareas con roles de usuario, login, backend con 
 💻 Otros proyectos destacados:
 
 ✨ **Cotizador de cortes para Sur Maderas**  
-(JavaScript, HTML, SASS, Boostrap)  
+(JavaScript, HTML, SASS, Boostrap)
+Este proyecto es una aplicación web desarrollada para facilitar la cotización de cortes de madera personalizados para la empresa SurMaderas.
 
 
 ✨ **Catálogo Exclusivo Sur Maderas**  
