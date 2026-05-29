@@ -34,6 +34,13 @@ Intake system with QR/camera-based coupon scanning.
 - MongoDB backend
 - Mobile-first design
 
+### [Mate&Co — Tienda Online](https://www.mateandcomdp.com.ar/)
+E-commerce for an artisanal mate products store based in Mar del Plata.
+- Shopping cart with product catalog (calabaza, cerámica, bombillas de alpaca)
+- Custom engraving / personalization flow
+- SEO-optimized for Argentine market
+- Shipping to all of Argentina
+
 ### [Devstudio](https://devstudio-chi.vercel.app/)
 My freelance web development brand — landing pages and custom web solutions for businesses.
 - WhatsApp CTA integration
