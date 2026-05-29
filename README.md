@@ -1,99 +1,57 @@
-👋 Hola, soy Matías Rojo
+# Hi, I'm Matías 👋
 
-Desarrollador Full Stack Junior, con foco en React y JavaScript, apasionado por construir aplicaciones web reales, mejorar procesos y aprender constantemente.
-Actualmente trabajo en Sur Maderas, donde desarrollo soluciones internas que conectan tecnología con necesidades reales del negocio.
+Full-stack developer based in **Mar del Plata, Argentina**. I build internal management tools and commercial web products using React, Node.js, and MongoDB. I run a freelance web dev brand called **[Devstudio](https://devstudio-chi.vercel.app/)**, focused on fast, conversion-oriented sites for small businesses.
 
-🚀 Estoy en búsqueda de una oportunidad laboral como desarrollador, donde pueda seguir aprendiendo, crecer profesionalmente y aportar valor en equipo.
+---
 
-🧠 Proyectos Destacados
-⚛️ Sistema de Gestión Interna (Proyecto Principal)
+## 🛠️ Tech Stack
 
-React · Node.js · Express · MongoDB
+**Frontend:** React, Vite, SCSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, Mongoose  
+**Auth:** Google OAuth  
+**Deploy:** Vercel  
+**Other:** PWA, Capacitor, WhatsApp Business API (Meta)
 
-Aplicación web full stack desarrollada para la gestión interna de una empresa.
+---
 
-Incluye:
+## 🚀 Projects
 
-Login y autenticación con roles (admin / empleados)
+### [Surmaderas Gestión](https://github.com/matiasdev)
+Internal full-stack management app for a lumber business in Mar del Plata.
+- Sales, cash flow, suppliers, quotes, and dashboards
+- WhatsApp module with Kanban view, quick-reply templates, and inactivity alerts
+- Built with React + Vite + Express + MongoDB + SCSS
 
-Dashboard principal
+### [creadorPrecios](https://github.com/matiasdev)
+Product and pricing management app with print-ready signs.
+- Google Auth integration
+- Excel import support
+- Deployed on Vercel
 
-Gestión de tareas por usuario
+### [FormularioDeIngresoSistema](https://github.com/matiasdev)
+Intake system with QR/camera-based coupon scanning.
+- MongoDB backend
+- Mobile-first design
 
-Calendario de actividades
+### [Devstudio](https://devstudio-chi.vercel.app/)
+My freelance web development brand — landing pages and custom web solutions for businesses.
+- WhatsApp CTA integration
+- SEO-optimized for Argentine SMBs
 
-Gestión de productos
+---
 
-API REST propia
+## 🔌 APIs & Integrations
 
-Diseño responsive
+- **WhatsApp Business API** (Meta) — webhook integration for message management
+- **Google OAuth** — authentication in production apps
+- **AFIP/ARCA** — evaluated for CUIL/CUIT lookups
+- **RENAPER** — researched for DNI validation (requires government agreement)
+- **Vercel** — CI/CD and hosting across projects
 
-Arquitectura modular y escalable
+---
 
-Base preparada para funcionar como PWA
+## 📬 Contact
 
-👉 Este es mi proyecto más completo y el que mejor representa mi nivel actual.
-
-📦 Entrega Final React – Coderhouse
-
-React · JavaScript · Firebase / Mock API
-
-Proyecto académico desarrollado como entrega final del curso de React en Coderhouse, enfocado en buenas prácticas de desarrollo frontend.
-
-Características:
-
-Componentes reutilizables
-
-Manejo de estado
-
-Ruteo con React Router
-
-Consumo de datos (Firebase o mock)
-
-Flujo de navegación completo
-
-Buenas prácticas de organización de proyecto
-
-👉 Proyecto clave para consolidar fundamentos sólidos en React.
-
-✨ Cotizador de Cortes – Sur Maderas
-
-JavaScript · HTML · Sass · Bootstrap
-
-Herramienta web para cotizar cortes de madera personalizados, optimizando tiempos de atención y reduciendo errores manuales.
-Proyecto enfocado en lógica de negocio y automatización.
-
-✨ Catálogo Exclusivo – Sur Maderas
-
-HTML · CSS · Sass · Bootstrap
-
-Catálogo web con estética nórdica, creado para replicar un catálogo físico y facilitar presentaciones comerciales y ventas.
-
-🛠️ Tecnologías
-
-Frontend: React, JavaScript, HTML, CSS, Sass, Bootstrap
-
-Backend: Node.js, Express
-
-Base de datos: MongoDB
-
-Herramientas: Git, GitHub, Vite, JWT, APIs REST
-
-📚 Actualmente aprendiendo
-
-React avanzado
-
-Buenas prácticas de Clean Code
-
-Arquitecturas frontend y backend más escalables
-
-🎯 Objetivo profesional
-
-Seguir formándome como desarrollador Full Stack, participar en proyectos reales, aprender de otros desarrolladores y crecer dentro de un equipo técnico.
-
-📫 Contacto
-
-📧 Email: maturojo123mdq@gmail.com
-
-💼 LinkedIn:
-Matías Nahuel Rojo Antuña
+- 🌐 [devstudio-chi.vercel.app](https://devstudio-chi.vercel.app/)
+- 💬 WhatsApp available through my site
